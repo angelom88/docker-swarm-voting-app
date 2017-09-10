@@ -1,0 +1,1 @@
+# docker-swarm-voting-app
